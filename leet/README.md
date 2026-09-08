@@ -5,27 +5,30 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 0 | 0 | 0 | 0 |
+| 1 | 1 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 0 days | 0 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| - | 0 |
+| 2026-09-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| - | 0 | 0% |
+| Array | 1 | 100% |
+| Hash Table | 1 | 100% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
+| [Array](Topics/array/) | 1 |
+| [Hash Table](Topics/hash-table/) | 1 |
 | [Math](Topics/math/) | 0 |
 <!---LeetHub Summary End-->
