@@ -27,4 +27,5 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
+| [Math](Topics/math/) | 0 |
 <!---LeetHub Summary End-->
